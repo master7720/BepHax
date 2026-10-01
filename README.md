@@ -2,10 +2,10 @@
 
   # BepHax (Free Edition)
 
-  <img src="https://github.com/user-attachments/assets/0bc33245-4d4e-4f53-b02b-c9603d736b30" alt="logo" width="25%" />
+  <img src="https://github.com/user-attachments/assets/72a3d9f6-aad4-4747-bb6b-27125b35914d" alt="logo" width="25%" />
 <br> <br>
 
-  [clickgui pic](https://github.com/user-attachments/assets/db4646a6-e02d-45ed-8d14-2b938073902d)
+  [clickgui pic](https://github.com/user-attachments/assets/e60c4f16-0118-4325-afe1-80fa36f6f47c)
 
   # [ info ]
   Known Meteor addon for the Grim Anticheat mostly used for 2b2t. The addon is like 60% vibe coded.
