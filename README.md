@@ -10,6 +10,8 @@
   # [ info ]
   Known Meteor addon for the Grim Anticheat mostly used for 2b2t. The addon is like 60% vibe coded.
 
+  btw if u want a better alternative to this addon thats free and open source check out [Lambda](https://github.com/lambda-client/lambda) it has everything this addon has but better.
+
   # [how-to]
 
   1. Download and unpack the .zip file from the [Releases Tabe](https://github.com/master7720/BepHax/releases/tag/Releases)
